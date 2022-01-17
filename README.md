@@ -9,7 +9,7 @@ Automatically comments, labels, and closes GitHub issues and pull requests accor
 
 ## Usage
 
-### Install test123456677
+### Install test1234566771122
 
 `npm install -g git3po`
 
